@@ -1,3 +1,7 @@
+#Webscrapper built in python to:
+#1) parse given html 
+#2) return data relevant to object of the day
+
 import requests
 from bs4 import BeautifulSoup
 import imagehandler
