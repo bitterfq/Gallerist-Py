@@ -31,7 +31,3 @@ Two commands are supported:
 
 
 2. !help <command>
-
-``
-    Returns description of the command
-``
