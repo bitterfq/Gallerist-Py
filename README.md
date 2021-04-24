@@ -29,10 +29,6 @@ Two commands are supported:
 
 1. !gallerist
 
-``
-    Returns embeded message with picture attachement and metadata
-
-``
 
 2. !help <command>
 
