@@ -29,13 +29,13 @@ Two commands are supported:
 
 1. !gallerist
 
-`` 
-Returns embeded message with picture attachement, metadata and title
+``
+    Returns embeded message with picture attachement, metadata and title
 
 ``
 
 2. !help <command>
 
 ``
-Returns description of the command
+    Returns description of the command
 ``
