@@ -4,7 +4,7 @@ Discord bot built with Py3 and bs4 to display the object of the day from the **S
 
 ref : <https://www.slam.org/explore-the-collection/object-of-the-day/>
 
-``` Rs
+``` Py
 
 Workflow
 
@@ -16,3 +16,26 @@ Workflow
 
 ```
 
+## Usage 
+
+1. Clone repo into local machiene 
+2. Set up Discord application and bot following Discord [docs](https://discordpy.readthedocs.io/en/stable/discord.html)
+3. Copy token from discord bot created and edit place into the env variable in the .env file
+4. Run `python3 bot.py`
+
+## Commands
+
+Two commands are supported:
+
+1. !gallerist
+
+`` 
+Returns embeded message with picture attachement, metadata and title
+
+``
+
+2. !help <command>
+
+``
+Returns description of the command
+``
